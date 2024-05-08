@@ -8,8 +8,5 @@ bool isleap(int year){
 }
 int main (){
 
-
-
-
     return 0;
 }
